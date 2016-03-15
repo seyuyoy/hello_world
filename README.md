@@ -1,3 +1,3 @@
 # hello_world
-hello world. thisis my firs commit on this branch.
+hello world. this is my first commit on this branch.
 github<3
